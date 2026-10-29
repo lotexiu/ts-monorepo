@@ -14,6 +14,14 @@
 	path = packages/typescript
 	url = https://github.com/lotexiu/typescript
 
+[submodule "packages/react"]
+	path = packages/react
+	url = https://github.com/lotexiu/react
+
+[submodule "packages/br"]
+	path = packages/br
+	url = https://github.com/lotexiu/br
+
 [submodule "packages/eslint-config"]
 	path = packages/eslint-config
 	url = https://github.com/lotexiu/eslint-config.git
