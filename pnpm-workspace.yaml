@@ -1,11 +1,13 @@
 packages:
   - apps/*
+  - apps/cloud-files-manager/*
   - packages/*
 
 onlyBuiltDependencies:
   - '@parcel/watcher'
   - '@swc/core'
   - cpu-features
+  - electron
   - esbuild
   - lmdb
   - msgpackr-extract
