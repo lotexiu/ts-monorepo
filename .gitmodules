@@ -37,3 +37,9 @@
 [submodule "packages/vite-utils"]
 	path = packages/vite-utils
 	url = https://github.com/lotexiu/vite-utils.git
+[submodule "packages/dom"]
+	path = packages/dom
+	url = https://github.com/lotexiu/dom.git
+[submodule "packages/angular"]
+	path = packages/angular
+	url = https://github.com/lotexiu/angular.git
